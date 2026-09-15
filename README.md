@@ -9,7 +9,7 @@
 - 🌱 Learning more about AI Agents, Deep Learning and production ML
 - 🎯 2026 Goal: Build and deploy more real-world AI applications
 - 📍 Germany
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: arjunselvakumar07@gmail.com
 
 ## Connect with me
 
