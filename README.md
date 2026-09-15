@@ -1,3 +1,6 @@
+<img width="800" height="600" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/e6349267-77b4-4c45-98d7-3855b314d345" />
+
+
 # Hey, I'm Arjun 👋
 
 🎓 M.Sc. Data Science @ FAU Erlangen-Nürnberg  
