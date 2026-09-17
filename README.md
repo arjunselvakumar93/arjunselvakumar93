@@ -1,186 +1,155 @@
-<img width="736" height="736" alt="Dev Dreams" src="https://github.com/user-attachments/assets/15ad73dc-8738-4ac4-9388-9214608a6dab" />
-
-<!-- Banner goes here -->
-<!-- Example:
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
--->
-
 # Hey, I'm Arjun 👋
 
-### Data Science Master's Student | AI & Machine Learning | Building things and figuring them out along the way
-
-I'm currently pursuing my **M.Sc. in Data Science at FAU Erlangen-Nürnberg** 🇩🇪.
-
-I enjoy working with **Machine Learning, Deep Learning, Data Analytics and AI**, especially when I can take an idea, experiment with it, break it a few times, and eventually turn it into something that actually works.
-
-> Probably debugging something right now.
+### M.Sc. Data Science @ FAU Erlangen-Nürnberg
+### AI • Machine Learning • Deep Learning • Data Analytics
 
 ---
 
-## 👨‍💻 A little about me
+## About Me
 
-- 🎓 M.Sc. **Data Science** @ FAU Erlangen-Nürnberg
-- 🤖 Interested in **AI, Machine Learning & Deep Learning**
+- 🎓 M.Sc. Data Science at **FAU Erlangen-Nürnberg**
+- 🤖 Interested in **AI, Machine Learning and Deep Learning**
 - 🐍 Mostly working with **Python**
-- 📊 Enjoy building **data-driven applications and dashboards**
-- 🧠 Currently improving my skills in **AI systems and applied ML**
-- 🏥 Interested in applications of AI in **Healthcare**
-- 🇩🇪 Based in Nürnberg, Germany
-- 🚀 Goal: Build more projects that actually leave my laptop and reach production
-- ☕ Coffee → Code → Bugs → Fix → Repeat
+- 📊 Interested in **Data Analytics and Visualization**
+- 🏥 Exploring **Healthcare AI**
+- 📍 Based in **Nürnberg, Germany**
+- 🚀 Building projects and learning by doing
+- 🐛 Probably debugging something right now
 
 ---
 
-# 🛠️ Languages & Tools
+## Tech Stack
 
 ### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Python
+- Java
+- SQL
 
 ### Machine Learning & Data Science
+- PyTorch
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### BI & Visualization
+- Power BI
+- Tableau
+- Qlik Sense
 
-### Data Visualization & BI
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Data / Tools
+- ETL
+- Data Modelling
+- DAX
+- Hadoop
+- Git
+- GitHub
+- VS Code
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🫁 Pneumonia Detection using Deep Learning
-
-Built a **deep-learning image classification system** for detecting pneumonia from chest X-ray images.
-
-**What I worked on:**
-
-- Convolutional Neural Networks
-- PyTorch
+### Pneumonia Detection using Deep Learning
+- Chest X-ray image classification
+- CNN using PyTorch
 - Transfer Learning
 - ResNet / EfficientNet
 - Data Augmentation
-- Class Imbalance Handling
 - Hyperparameter Tuning
-- ROC-AUC, F1 Score, Precision & Recall
+- Evaluation using F1, Precision, Recall and ROC-AUC
 
-`Python` `PyTorch` `CNN` `Deep Learning` `Healthcare AI`
-
----
-
-## 🏥 Healthcare Operations Analytics Dashboard
-
-Built an interactive **Power BI dashboard** for analysing patient waiting lists and healthcare operational KPIs.
-
-The dashboard includes:
-
-- Patient waiting-list trends
-- Average & median waiting times
-- Year-over-year comparison
+### Healthcare Operations Dashboard
+- Power BI dashboard
+- Patient waiting-list analysis
+- KPI tracking
+- Average and median waiting times
 - Dynamic filters
-- Specialty ranking
-- Age-group analysis
-- Case-type analysis
+- Specialty and age-group analysis
 
-`Power BI` `Data Analytics` `Healthcare` `Visualization`
-
----
-
-## 🏦 Bank Customer Churn Prediction
-
-Developed a machine-learning solution to identify customers who are likely to leave a bank.
-
-The project explored customer behaviour using:
-
-- Transaction history
-- Account activity
-- Customer demographics
-- Banking interactions
+### Bank Customer Churn Prediction
+- Machine Learning classification project
+- Customer behaviour analysis
+- Data preprocessing
 - Predictive modelling
-
-🎯 **Role:** Team Lead
-
-`Python` `Machine Learning` `Classification` `Data Analysis`
+- Team Lead
 
 ---
 
-# 💼 Experience
+## Experience
 
 ### Data Science Intern
 **DLK Software Solutions**
 
-Worked on practical Data Science projects involving:
-
 - Data Cleaning
 - Exploratory Data Analysis
-- Machine Learning
-- Classification & Regression
+- Classification
+- Regression
 - Model Validation
 - Data Visualization
-- Model Performance Evaluation
-
----
+- Performance Evaluation
 
 ### Work-Study | Data Science Lab
 **Rajalakshmi Institute of Technology**
 
-Worked with:
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Qlik Sense
+- Python-based Data Analysis
+- Power BI Dashboards
 - Tableau
-- ETL
+- Qlik Sense
+- ETL Processes
 - Data Modelling
 - DAX
-- Dashboard Development
+- KPI Reporting
 
 ---
 
-# 🎓 Education
+## Education
 
 ### M.Sc. Data Science
-**Friedrich-Alexander-Universität Erlangen-Nürnberg**
-
-📍 Erlangen, Germany  
-📅 2024 – Present
-
----
+**FAU Erlangen-Nürnberg**
+- 2024 – Present
+- Erlangen, Germany
 
 ### B.Tech Artificial Intelligence & Data Science
-
 **Rajalakshmi Institute of Technology**
-
-📍 Chennai, India  
-📅 2020 – 2024
+- 2020 – 2024
+- Chennai, India
 
 ---
 
-# 🌱 Currently Learning
+## Currently Learning
 
-```text
-Machine Learning
-Deep Learning
-AI Applications
-Data Engineering
-AI Agents
-Production ML
+- AI Agents
+- Deep Learning
+- Production ML
+- Data Engineering
+- Applied AI Systems
+
+---
+
+## Languages
+
+- English — C1
+- German — A2
+
+---
+
+## Connect With Me
+
+- LinkedIn: [arjun-selvakumar22](https://www.linkedin.com/in/arjun-selvakumar22)
+- GitHub: [arjunselvakumar93](https://github.com/arjunselvakumar93)
+- Email: arjunselvakumar07@gmail.com
+
+---
+
+## GitHub Stats
+
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunselvakumar93&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunselvakumar93&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+**Still learning. Still building. Probably debugging something.**
