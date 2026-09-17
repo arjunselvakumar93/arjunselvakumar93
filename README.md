@@ -1,4 +1,4 @@
-<img width="800" height="600" alt="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41" src="https://github.com/user-attachments/assets/e6349267-77b4-4c45-98d7-3855b314d345" />
+<img width="736" height="736" alt="Dev Dreams" src="https://github.com/user-attachments/assets/15ad73dc-8738-4ac4-9388-9214608a6dab" />
 
 <!-- Banner goes here -->
 <!-- Example:
