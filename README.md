@@ -1,4 +1,6 @@
-<img width="320" height="320" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1a790c02-6ba2-4acc-98ea-cc016851b2f8" />
+<img width="320" height="320" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/1a790c02-6ba2-4acc-98ea-cc016851b2f8" /> 
+
+
 # Hey, I'm Arjun 👋
 
 ### M.Sc. Data Science @ FAU Erlangen-Nürnberg
